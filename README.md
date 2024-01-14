@@ -1,13 +1,17 @@
 # Alejandro Quispe
 
-Dev buscando se aventurar no backend.
+Backend Dev looking for adventures.
 
-### Conecte-se comigo
+- Portuguese
+- Spanish
+- English
+
+### Reach me out
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:aleejandroqq123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alejandro-quispe-qquehue-b045a7194/)
 
-### Habilidades
+### Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
